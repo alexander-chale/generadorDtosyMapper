@@ -1,0 +1,1 @@
+si se ejecuta en windows se debe colocar el archivo config.properties en la raiz de c:
